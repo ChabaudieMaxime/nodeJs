@@ -1,6 +1,13 @@
 Documentation : 
 
+ATTENTION : travail réalisé sur les machines de l'IUT et non sur ordinateur personnel.
+
 1 : installer nodeJs avec l'installateur
-2 : se mettre dans l'espace de travail souhaité puis faire :
+2 (pas obligatoire si accès aux fichiers de l'IUT) : se mettre dans l'espace de travail souhaité puis faire :
 npm install express
 npm install ws
+
+3 : trouver le chemin absolu de "serveur.js"
+4 : lancer dans un invite de commande normal, en étant dans le fichier contenant serveur.js
+5 : écrire node serveur.js
+6 : si un message "en écoute sur le port 8080" apparaît, ça marche.
