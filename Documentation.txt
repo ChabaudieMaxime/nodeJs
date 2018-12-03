@@ -1,5 +1,9 @@
 Documentation : 
 
+Références des cours :
+
+telmat.io/M3500/sessionX
+
 ATTENTION : travail réalisé sur les machines de l'IUT et non sur ordinateur personnel.
 
 1 : installer nodeJs avec l'installateur
@@ -11,3 +15,6 @@ npm install ws
 4 : lancer dans un invite de commande normal, en étant dans le fichier contenant serveur.js
 5 : écrire node serveur.js
 6 : si un message "en écoute sur le port 8080" apparaît, ça marche.
+
+
+Bootstrap doc : http://getbootstrap.com/
