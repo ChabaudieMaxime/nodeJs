@@ -1,0 +1,6 @@
+Documentation : 
+
+1 : installer nodeJs avec l'installateur
+2 : se mettre dans l'espace de travail souhaité puis faire :
+npm install express
+npm install ws
